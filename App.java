@@ -3,7 +3,7 @@ package pl.mps;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * Hello world!
+ * Hello world! Prosta aplikacja.
  *
  */
 public class App 
